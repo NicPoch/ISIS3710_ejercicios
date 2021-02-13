@@ -1,0 +1,19 @@
+.row-cols-2 img{
+    height: 70px;
+    width:100%;
+}
+
+header{
+    width:100%;
+}
+
+.menu{
+    background-color: aquamarine;
+}
+
+footer{
+    background-color: black;
+    height:50px;
+    color:white;
+    text-align:center;
+}
