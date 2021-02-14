@@ -1,0 +1,10 @@
+· Código legible (html y css)
+El código HTML y CSS es muy fácil de leer y entender. Se puede entender cada para que sirve cada elemento.
+· Secciones lógicas claramente diferenciables
+Entre el uso del main, nav, cols y rows lograste dividir la página de una manera clara para las personas que la visitan.
+· Diseño estético de la página (colores, bloques, secciones, tipografía, imágenes)
+Estupendo el diseño de página, es muy amigable a la vista y distribuyes muy bien tu contenido.
+· Navegación consistente
+La navegación podría ser más consistente en los diferentes configuraciones de pantalla, le pudiste dar más responsiveness.
+· Reglas en css correctamente nombradas
+Las reglas usadas son muy claras con sus nombrem. También, haces un estupendo manejo de los diferentes tipos de selectores.
